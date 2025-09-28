@@ -1,4 +1,8 @@
 streamlit
-python-slugify
+edge-tts
+PyPDF2
+python-docx
+requests
+beautifulsoup4
 openai
-jsonschema
+youtube-transcript-api
